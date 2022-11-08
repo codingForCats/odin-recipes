@@ -1,0 +1,16 @@
+body{
+    background-color: #EAD2A8;
+    padding-left: 1em;
+}
+
+div.index{
+    text-align: center;
+}
+
+ul.menu{
+    list-style: none;
+}
+
+img{
+    width: 400px;
+}
